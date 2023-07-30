@@ -1,0 +1,490 @@
+"reportingEndpoints": [
+    {
+      "endpointType": 10,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "https://link1-curb-ngrok-123.ngrok.io/order",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "https://link2-curb-ngrok-123.ngrok.io/order",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "https://link3-curb-ngrok-123.ngrok.io/order",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "http://kms-prod-app-sweden-dot-curb-food-production.ew.r.appspot.com/order",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "https://hooks.zapier.com/hooks/catch/6951403/o7v4kc3/",
+      "statusTrigger": [
+        120
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        20
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        95
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        100
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        110
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        75
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        92
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        30
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        87
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        83
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        90
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        80
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        4
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        123
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        10
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        1
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        70
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        60
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        50
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        40
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        7
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        5
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        129
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        122
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        25
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://curb-food-python.herokuapp.com/api/deliverect",
+      "statusTrigger": [
+        3
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        20
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 10,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        2
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        90
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        95
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        100
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        110
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        75
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        92
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        30
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        87
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        83
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        120
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        80
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        4
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        123
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        10
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        1
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        60
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        70
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        121
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        130
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        50
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        40
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        5
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        6
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        129
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        122
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        25
+      ],
+      "endpointLevel": 1
+    },
+    {
+      "endpointType": 20,
+      "endpoint": "https://wire.cvrb.io/deliverect",
+      "statusTrigger": [
+        3
+      ],
+      "endpointLevel": 1
+    }
+  ],

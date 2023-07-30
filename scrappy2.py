@@ -1,0 +1,11 @@
+import requests
+from bs4 import BeautifulSoup
+
+URL = "https://www.ubereats.com/au/store/sunny-side/oj6LvE35Xzec2qQLWR0faA?pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMjYxNiUyMENvbG9tYm8lMjBTdHJlZXQlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJFakEyTVRZZ1EyOXNiMjFpYnlCVGRISmxaWFFzSUVOaGJuUmxjbUoxY25rZ09EQXhNU3dnVG1WM0lGcGxZV3hoYm1RaVVSSlBDalFLTWduZjBPenVGNG94YlJHX1VCdEdVWHRKLWhvZUN4RHV3ZTZoQVJvVUNoSUo4MnBNUXoyS01XMFJUTlNkOG8xM05hVU1FT2dFS2hRS0VnbmY0ZDdBRUlveGJSRUdOdk9IZXd4WHJ3JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMmdvb2dsZV9wbGFjZXMlMjIlMkMlMjJsYXRpdHVkZSUyMiUzQS00My41MzU3MDUzMTc5MDQ2MzYlMkMlMjJsb25naXR1ZGUlMjIlM0ExNzIuNjM2NjM5NDg1ODU1NTQlN0Q%3D"
+page = requests.get(URL)
+
+soup = BeautifulSoup(page.content, "html.parser")
+#print(soup)
+
+results = page.find("stores\u0022:{\u0022")
+print(results)

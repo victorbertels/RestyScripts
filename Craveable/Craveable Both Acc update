@@ -1,0 +1,241 @@
+#Enable KJ for all ROO's on OP and RR
+#acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+#query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':2})
+#
+#
+#for i in query:
+#  print(i.channelSettings.sendCaloriesAsKJ)
+#  pcli.channelLinks.update(i,{
+#      "channelSettings.sendCaloriesAsKJ": True
+#  })
+
+
+#Enable En Route
+#update checkIdTemplate with only {customerName}
+#Disable buffer
+
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':7})
+
+
+for i in query:
+    pcli.channelLinks.update(i,{
+        "posSettings.simphony.checkIdTemplate" : "{customerName}",
+        "posSettings.simphony.bufferOrders" : False,
+        "channelSettings.enableReleaseCall" : True,
+        "bufferOrders" : False
+    })
+
+
+for i in query:
+    name = i.name
+    if name[-5:] == "FRIED":
+        print(i.name)
+        print(i.account)
+        pcli.channelLinks.update(i,{
+            "posSettings.simphony.orderType" : 10
+        })
+
+
+#Update master location slider on all CL's for Red Rooster : 5fe17b1effe9e99933f9f58a, masterloc : 5ff385cac6cc4ade72524c1a
+RedRooster = pcli.channelLinks.list_all(q={'account' :"5fe17b1effe9e99933f9f58a","productLocation":{"$exists":False}})
+
+
+for i in RedRooster:
+    pcli.channelLinks.update(i,{
+          "productLocation": "5ff385cac6cc4ade72524c1a" 
+    })
+
+
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+#Find master location slider on all CL's for Oporto : 5e7bbf7265013b00010cb6aa, master loc : 5f109866f3494b8ce30aaa56
+oporto = pcli.channelLinks.list_all(q={'account' :{"$in":acc_ids},"productLocation":{"$exists":False}})
+#Find any locatios that don't have a posVersions set
+oporto = pcli.locations.list_all(q={'account' :{"$in":acc_ids},"posSettings.simphony.posVersion":{"$exists":False}})
+#Find any locations that don't have payment enforced
+oporto = pcli.locations.list_all(q={'account' :{"$in":acc_ids},"posSettings.simphony.posOrdersAreAlwaysPaid":{"$exists":False}})
+
+
+for i in oporto:
+    pcli.locations.update(i,{
+        "posSettings.simphony.posOrdersAreAlwaysPaid" : True
+
+    },override = 1 , propagate = 'all')
+    print(i.posSettings.simphony.posOrdersAreAlwaysPaid)
+
+
+
+
+for i in oporto:
+    pcli.channelLinks.update(i,{
+          "productLocation": "5f109866f3494b8ce30aaa56" 
+    })
+
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':26})
+
+
+for i in query : 
+    pcli.channelLinks.update(i,{
+        "posSettings.simphony.pCheckInfoLinesTemplate" : "{orderId} , {orderNote}"
+    })
+    
+
+#DoorDash images enable
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':12})
+
+
+
+for i in query:
+    pcli.channelLinks.update(i,{
+        "channelSettings.sendImagesOnMenuPush" : True
+    })
+
+
+
+#Uber UUID's
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel': 7,'channelSettings.storeId':"4ae299c5-8199-51aa-9d44-73b67464a8ff"})
+
+#Uber UUID's
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':26})
+
+for i in query:
+    pcli.channelLinks.update(i,{
+    "channelSettings.sendCaloriesAsKJ" : True})
+    
+    
+    
+    print(i.channelSettings.enableReleaseCall)
+
+
+
+
+
+
+
+##DoorDash template Oporto
+acc_ids=["5fe17b1effe9e99933f9f58a",]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':2})
+
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':12})
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':2})
+
+
+for i in query:
+    pcli.channelLinks.update(i,{
+"posSettings":{
+    "simphony":{
+        "orderNoteTemplate": "{displayOrderId}{orderNote}",
+        "checkIdTemplate": "{orderId}",
+
+    }}})
+
+
+
+
+
+
+acc_ids=["5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids}, "channel" : 12})
+
+for i in query:
+    pcli.channelLinks.update(i,{
+        "posSettings" : {
+            "simphony" : {
+                "checkIdTemplate": "{customerName}",
+                "orderNoteTemplate": "{displayOrderId}",
+                
+                            }}})
+          
+
+for i in query:
+    bufferOrders = i.posSettings.simphony.bufferOrders
+    if bufferOrders == False:
+        
+        print(i._id)
+    print(i.bufferOrders, i.posSettings.simphony.bufferOrders, i.posSettings.simphony.averagePreparationTime)
+
+
+
+acc_ids=["5e7bbf7265013b00010cb6aa","5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids},'channel':7})
+
+for i in query:
+    print(i.channelSettings.storeId)
+
+
+### DoorDash enable buffer and set 5 min prep time
+
+
+acc_ids=["5fe17b1effe9e99933f9f58a"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids}, })
+
+for i in query:
+    channel = i.channel
+    name = i.name
+    if channel == 26 and name == "Menulog VK":
+        print(name , "updated menulog")
+        pcli.channelLinks.update(
+            i,{
+                "posSettings":{
+                    "simphony":{
+                        "orderTypeId" : 11
+                    }
+                }
+            }
+        ),
+     
+     
+acc_ids=["5e7bbf7265013b00010cb6aa"]
+query = pcli.channelLinks.list_all(q={'account':{"$in":acc_ids}})
+
+for i in query:
+    channel = i.channel
+    name = i.name 
+    if channel == 12 and name == "DoorDash BASTED":
+        print(name , channel , "updated DDB")
+        pcli.channelLinks.update(
+            i,{
+                "posSettings":{
+                    "simphony":{
+                        "orderTypeId" : 13
+                    }
+                }
+            }
+        ),
+
+
+
+    print(i._id,i.name)
+    print("channel", i.channel)
+    print("channel link id: ",i._id)
+    print("name of the channel link: " , i.name )
+    print("ordertype that is set: ", i.posSettings.simphony.orderTypeId)
+    print()
+    print()
+
+    print(i.status)
+    pcli.channelLinks.update(i,{
+              "status": 3
+
+    })
+
+
+for i in query:
+    channel = i.channel
+    name = i.name
+    if channel == 26:
+        print(name ,i._id, i.posSettings.simphony.orderTypeId)
+        pcli.channelLinks.update(
+            i,{
+                "posSettings":{
+                    "simphony":{
+                        "orderTypeId" : 11
+                    }
+                }
+            }
+        ),
+     

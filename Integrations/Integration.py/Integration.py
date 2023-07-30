@@ -1,0 +1,15 @@
+import requests
+import json
+
+url = "https://api.deliverect.com/integrations?where={\"integrationType\":\"pos\", \"backendId\":10120}"
+
+payload = ""
+headers = {
+  'If-Match': 'bd29240287e782b6073139edf31d41391502f968',
+  'Authorization': 'Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUWkVNakV5TVVZeVJqazJPRGs1TkRjMVF6QXpNMFE1UTBFek1UazNPRFZGTkVJeFF6YzFRZyJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJlY3QuZXUuYXV0aDAuY29tLyIsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTAzMzI5OTY3MjkyNTM2NDEwNjY0IiwiYXVkIjpbImh0dHBzOi8vYXBpLmRlbGl2ZXJlY3QuY29tIiwiaHR0cHM6Ly9kZWxpdmVyZWN0LmV1LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NTE0NDY2ODEsImV4cCI6MTY1MTUzMzA4MSwiYXpwIjoiZ214blpIVFV2R1RPOTdTZ0ttclJFN09iX2NCcmNhaTQiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIn0.XbYSHOSvJAbevSVBWAdjzrznDuoS1viywE12oGog7baRbPB6v9lGD3hcHzTA7T4kaFPuAoYmGaEy53zlKAuT-8BFSH8P4Zehjz12Lj0RWytxlekZVxUpPBSlSA2BiRzlw_UrDE0p1QNZXWXBoGoWEI6uu6nk27NxB769Kpz37BIKebN6A7QROkv5LlmRHqOua9PrmVmlfGbnmwfAcDXyUZp31N8jW_xtg3Kl_vtoUb9WKezY8dMfy2YR-K2gYL3n7uHtXOoScurJwra6y0W443rtCtrTFrJWEYJl6xItcrWM5SRlSzRtY9w2IV7kUrKt3oD1B9rlPuE5P7-BWSW3fQ',
+  'Content-Type': 'application/json'
+}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)

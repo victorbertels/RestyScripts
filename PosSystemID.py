@@ -1,0 +1,19 @@
+import requests
+import json
+
+url = "https://api.deliverect.com/v1/appStore/apps"
+
+payload={}
+headers = {
+  'Authorization': 'Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUWkVNakV5TVVZeVJqazJPRGs1TkRjMVF6QXpNMFE1UTBFek1UazNPRFZGTkVJeFF6YzFRZyJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJlY3QuZXUuYXV0aDAuY29tLyIsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTAzMzI5OTY3MjkyNTM2NDEwNjY0IiwiYXVkIjpbImh0dHBzOi8vYXBpLmRlbGl2ZXJlY3QuY29tIiwiaHR0cHM6Ly9kZWxpdmVyZWN0LmV1LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjMxMTA4NzQsImV4cCI6MTY2MzE5NzI3NCwiYXpwIjoiZ214blpIVFV2R1RPOTdTZ0ttclJFN09iX2NCcmNhaTQiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIn0.MSZv0I7mySyXQe__oy-bIjsSaCnOhyR6agZ4NI7zk2dALVAiO0yaShR085BHw6nspksFj8Oykww8w94VJSlwPYoGyYsB4cm_Jyr5b1KQRQ1WPbkSu5w6vL-ujZhg-G8vw6pmKOrB-tYo1uYTa2XEYyCAUAUPlNkDMMi5k1mxrg5p01H4dU9Y5GAEApoyF7BEHUyGvB5p--qeMYNDlFblroxYokBg_WJwFqZlktfCyoZkH0iKj47skbkcKQ7uVEthhZN7JJ5jsMHlTyYzKRdw8AF4XVzDDswObMCs9z_uVakeKo3bGBLwO7Xkz53aVAqEhzH2lK6vMBv-3Q5z89jgUg'
+}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+id = response.text
+customer = json.loads(id)
+
+print(customer["data"].name)
+
+
+# for i in customer["data"] :
+#     print(i.name)

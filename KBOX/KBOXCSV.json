@@ -1,0 +1,1327 @@
+[
+ {
+   "Location Name": "BANKSTOWN",
+   "Brand": "Absurd Bird (Bankstown)",
+   "UUID": "3bbcd785-245f-58fb-b66a-0282ad88935c"
+ },
+ {
+   "Location Name": "BANKSTOWN",
+   "Brand": "Epic Chicken (Bankstown)",
+   "UUID": "393f7fcd-8a2f-5ed8-84ca-bdd41057e924"
+ },
+ {
+   "Location Name": "BANKSTOWN",
+   "Brand": "World of Wings (Bankstown)",
+   "UUID": "bdc4a74c-deee-58bf-be0f-79ac24408cc3"
+ },
+ {
+   "Location Name": "BANKSTOWN",
+   "Brand": "Wing World (Bankstown)",
+   "UUID": "e1f8e041-f042-5351-a00f-2171e2199244"
+ },
+ {
+   "Location Name": "BANKSTOWN",
+   "Brand": "On the Wing (Bankstown)",
+   "UUID": "d637c3fc-4986-51c5-8ef2-49ce8876c796"
+ },
+ {
+   "Location Name": "BLACKTOWN ROAD, BLACKTOWN",
+   "Brand": "World of Wings (Blacktown Road, Blacktown)",
+   "UUID": "9aa38dea-58d0-5970-a209-b42b025402af"
+ },
+ {
+   "Location Name": "BLACKTOWN ROAD, BLACKTOWN",
+   "Brand": "Wing World (Blacktown Road, Blacktown)",
+   "UUID": "1e422fc5-aac5-5e46-9a86-4ad7e08b9a8a"
+ },
+ {
+   "Location Name": "BLACKTOWN ROAD, BLACKTOWN",
+   "Brand": "On the Wing (Blacktown Road, Blacktown)",
+   "UUID": "17cdbf8e-3875-5199-af63-c7838e7891cc"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "World of Wings (Boronia)",
+   "UUID": "19340c9b-f758-56cd-9202-40649b9e50db"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Wing World (Boronia)",
+   "UUID": "a34619a9-aea1-5e56-8d1b-e53e86221c8d"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Ungki's (Boronia)",
+   "UUID": "6ad2a750-8e77-5c09-bf9d-49dc9c0b4c09"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Dragon Ear (Boronia)",
+   "UUID": "56374e26-9e8c-5cda-be6e-c9c85ec929bc"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Absurd Bird (Boronia)",
+   "UUID": "fbcdf6b0-fa73-580e-b1dc-029a9d794f9a"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Epic Chicken (Boronia)",
+   "UUID": "ff0060de-202e-5742-a27d-7603d9630eb5"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Ben's Burgers (Boronia)",
+   "UUID": "39de76c9-008e-54b6-b6dc-6c4bca01a1e0"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "Big George's Burgers (Boronia)",
+   "UUID": "17609efb-f2f6-5556-bbe0-10861b9bacf7"
+ },
+ {
+   "Location Name": "BORONIA",
+   "Brand": "On The Wing (Boronia)",
+   "UUID": "287a7466-b5c9-55ef-a67b-81260d266c64"
+ },
+ {
+   "Location Name": "BURKE ROAD, KEW",
+   "Brand": "Dog n Bun (Burke Road, Kew)",
+   "UUID": "3d97d0d5-0cbd-5c38-9852-2660725f62d8"
+ },
+ {
+   "Location Name": "BURKE ROAD, KEW",
+   "Brand": "Epic Hotdog (Burke Road, Kew)",
+   "UUID": "056f4acb-9850-5e97-a4c9-3525b0546a92"
+ },
+ {
+   "Location Name": "BURKE ROAD, KEW",
+   "Brand": "Ben's Burgers (Burke Road, Kew)",
+   "UUID": "96735e4e-d364-5483-a5dd-a81bdd3edd0f"
+ },
+ {
+   "Location Name": "BURKE ROAD, KEW",
+   "Brand": "Big George's Burgers (Burke Road, Kew)",
+   "UUID": "9c2fa50d-0b58-508f-b365-68583c6eb86e"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "World of Wings (Centre road, Bentleigh)",
+   "UUID": "a0294193-a6d6-5a0a-90cb-fcb0a1de7139"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "Wing World (Centre road, Bentleigh)",
+   "UUID": "9e0b8563-847a-56e4-8271-b7ca5942aead"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "Ben's Burgers (Centre road, Bentleigh)",
+   "UUID": "37a5be23-f3eb-55dc-82a4-c87f338bcd97"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "Big George's Burgers (Centre road, Bentleigh)",
+   "UUID": "881bdb9e-a7c8-5740-9bf2-98e46240e9e7"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "Absurd Bird (Centre road, Bentleigh)",
+   "UUID": "a4763268-c965-5bfd-9bd1-df2f2f377eea"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "Epic Chicken, Centre road, Bentleigh)",
+   "UUID": "d3c071e0-304e-51c3-9fa8-965a2d46b16a"
+ },
+ {
+   "Location Name": "CENTRE ROAD, BENTLEIGH",
+   "Brand": "On The Wing (Centre road, Bentleigh)",
+   "UUID": "4e39b966-cc45-5ee2-8b39-9ae3775c5835"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "World of Wings (Dandenong)",
+   "UUID": "d00ebe39-31b9-40ce-8a3b-312556c31d7d"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Wing World (Dandenong)",
+   "UUID": "2af542a5-d9cc-46d2-8a12-c605321ad694"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Ungki's (Dandenong)",
+   "UUID": "a7cbf450-233d-5685-83d5-d7479ccfb1f0"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Dragon Ear (Dandenong)",
+   "UUID": "f1904b1e-959f-5483-84fe-14e0fea991a5"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Big George's Burgers (Dandenong)",
+   "UUID": "fcc0c3d3-9fa1-53bf-a13a-e0d99a6fba58"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Ben's Burgers (Dandenong)",
+   "UUID": "700c2e12-54ca-565d-a58c-6d2f0c4f3171"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Absurd Bird (Dandenong)",
+   "UUID": "f1524e4e-c8ca-4812-b701-6f0f40301661"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "Epic Chicken (Dandenong)",
+   "UUID": "d9c16cd0-3787-4c6f-8871-5efd8892a207"
+ },
+ {
+   "Location Name": "DANDENONG",
+   "Brand": "On The Wing (Dandenong)",
+   "UUID": "bec3cbb3-3370-570e-b6a1-231ba1b3e4bb"
+ },
+ {
+   "Location Name": "DUNDAS",
+   "Brand": "Legit Burgers (Dundas)",
+   "UUID": "cc5aecdb-b592-500a-8480-663aa3424b5f"
+ },
+ {
+   "Location Name": "DUNDAS",
+   "Brand": "OTT Burgers (Dundas)",
+   "UUID": "39e19d96-7169-5639-807b-6efc93cf6a78"
+ },
+ {
+   "Location Name": "DUNDAS",
+   "Brand": "Big George's Burgers (Dundas)",
+   "UUID": "8657c227-b32e-5396-88a2-ab10f1deaca4"
+ },
+ {
+   "Location Name": "DUNDAS",
+   "Brand": "Ben's Burgers (Dundas)",
+   "UUID": "eeb022b4-9f38-5b34-bcee-b8961523ff02"
+ },
+ {
+   "Location Name": "FOOTSCRAY",
+   "Brand": "World of Wings (Footscray)",
+   "UUID": "bb266767-844a-4884-8ed5-b47b379f826a"
+ },
+ {
+   "Location Name": "FOOTSCRAY",
+   "Brand": "Wing World (Footscray)",
+   "UUID": "76a42d03-bb3a-4000-b31c-e07592b28467"
+ },
+ {
+   "Location Name": "FOOTSCRAY",
+   "Brand": "Absurd Bird (Fotoscray)",
+   "UUID": "6a5835b4-6782-5728-832b-d2a8c05b9ed9"
+ },
+ {
+   "Location Name": "FOOTSCRAY",
+   "Brand": "Epic Chicken (Footscray)",
+   "UUID": "af1b2afd-2b59-5d79-94a8-ae9263506536"
+ },
+ {
+   "Location Name": "GUILDFORD",
+   "Brand": "Absurd Bird (Guildford)",
+   "UUID": "c4648344-60db-5d7a-a4ea-a1572198a275"
+ },
+ {
+   "Location Name": "GUILDFORD",
+   "Brand": "Epic Chicken (Guildford)",
+   "UUID": "bd07c584-294d-5397-9281-6a8eadd1c60f"
+ },
+ {
+   "Location Name": "GUILDFORD",
+   "Brand": "World of Wings (Guildford)",
+   "UUID": "bff45e6f-3161-52ce-beca-c067def68ea9"
+ },
+ {
+   "Location Name": "GUILDFORD",
+   "Brand": "Wing World (Guildford)",
+   "UUID": "23361204-f27b-5803-8f21-b4b65fde5b2b"
+ },
+ {
+   "Location Name": "HINCHINBROOK",
+   "Brand": "Absurd Bird (Hinchinbrook)",
+   "UUID": "8952ac74-fd04-5f7d-8d87-f160e5a3116d"
+ },
+ {
+   "Location Name": "HINCHINBROOK",
+   "Brand": "Epic Chicken (Hinchinbrook)",
+   "UUID": "ac8b87fc-5cd3-5a4c-85c3-85f3c97782cd"
+ },
+ {
+   "Location Name": "HINCHINBROOK",
+   "Brand": "On The Wing (Hinchinbrook)",
+   "UUID": "471c4c50-2a98-5cad-b5d0-0038338c338b"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "Absurd Bird (Hoppers Crossing)",
+   "UUID": "44f52975-e801-47ee-8d57-a68340c2cc73"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "Epic Chicken (Hoppers Crossing)",
+   "UUID": "eee7ca18-21b3-4845-8aea-b5041496962f"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "World of Wings (Hoppers Crossing)",
+   "UUID": "a33a2906-5fee-4531-a1ce-7fb77622f009"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "Wing World (Hoppers Crossing)",
+   "UUID": "67667868-5eee-4193-a6b8-e25cdc84863f"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "Dog n Bun (Hoppers Crossing)",
+   "UUID": "5a66759e-597c-518d-ab36-1a3686528a2d"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "Epic Hotdog (Hoppers Crossing)",
+   "UUID": "8f0a65f8-6798-55ce-a3c8-c49cbbd99a32"
+ },
+ {
+   "Location Name": "HOPPERS CROSSING",
+   "Brand": "On The Wing (Hoppers Crossing)",
+   "UUID": "c1849f44-e7b9-59f4-93dd-a4020faa8f79"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "World of Wings (Keilor)",
+   "UUID": "27fb3e3d-61f5-4f80-abd6-f156a0e9a473"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "Wing World (Keilor)",
+   "UUID": "950b3680-ee46-45b3-b52d-8e7e08f03120"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "Absurd Bird (Keilor)",
+   "UUID": "ddc79bbb-8a4b-42f6-828b-b6b59eddefde"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "Epic Chicken (Keilor)",
+   "UUID": "69d6a80c-4041-4741-8257-ed5114d2ca10"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "On The Wing (Keilor)",
+   "UUID": "c1830f0a-61dd-5df6-ac10-448afa0cbfab"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "Big George's Burgers (Keilor)",
+   "UUID": "e61c956d-1e20-55c6-9eb1-84a32efc9757"
+ },
+ {
+   "Location Name": "KEILOR",
+   "Brand": "Ben's Burgers (Keilor)",
+   "UUID": "16b7fce7-dbb7-5f5e-912e-ba00a05eb188"
+ },
+ {
+   "Location Name": "LALOR",
+   "Brand": "World of Wings (Lalor)",
+   "UUID": "3f094d0e-d95c-568f-bbf1-ddd02866d976"
+ },
+ {
+   "Location Name": "LALOR",
+   "Brand": "Wing World (Lalor)",
+   "UUID": "a57068f7-ea8a-5539-b2e8-936f9a3d3fce"
+ },
+ {
+   "Location Name": "LALOR",
+   "Brand": "Absurd Bird (Lalor)",
+   "UUID": "993d5d1b-f6e8-5384-b512-495236fb1e51"
+ },
+ {
+   "Location Name": "LALOR",
+   "Brand": "Epic Chicken (Lalor)",
+   "UUID": "fd13bab2-80e7-5c01-a37c-256d4c72eda1"
+ },
+ {
+   "Location Name": "LIVERPOOL ROAD, ASHFIELD",
+   "Brand": "Absurd Bird (Liverpool Road, Ashfield)",
+   "UUID": "b42ee005-5e1f-5957-940e-09e13d3b8b13"
+ },
+ {
+   "Location Name": "LIVERPOOL ROAD, ASHFIELD",
+   "Brand": "Epic Chicken (Liverpool Road, Ashfield)",
+   "UUID": "6aafde87-5820-5367-8595-82eae40eaeb3"
+ },
+ {
+   "Location Name": "LIVERPOOL ROAD, ASHFIELD",
+   "Brand": "World of Wings (Liverpool Road, Ashfield)",
+   "UUID": "10d0beb0-3086-5547-aca9-16300a8cfeaa"
+ },
+ {
+   "Location Name": "LIVERPOOL ROAD, ASHFIELD",
+   "Brand": "Wing World (Liverpool Road, Ashfield)",
+   "UUID": "878d81a6-d084-51dd-9746-dc507fd0f468"
+ },
+ {
+   "Location Name": "LIVERPOOL ROAD, ASHFIELD",
+   "Brand": "On The Wing (Liverpool Road, Ashfield)",
+   "UUID": "6fd51eca-5c9f-50e1-a161-f21f1f44ee05"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "World of Wings (Melton)",
+   "UUID": "26799a8b-7079-417a-860e-84a07ce01cd1"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "Wing World (Melton)",
+   "UUID": "ff94c159-c5dd-485d-b050-9968ca39e0bd"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "Absurd Bird (Melton)",
+   "UUID": "3eac286e-8a7b-49be-b477-c6a800b0cf1a"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "Epic Chicken (Melton)",
+   "UUID": "8d063717-2c22-41c1-bfdd-e515e5c9ffdd"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "Dog n Bun (Melton)",
+   "UUID": "c07f4282-1195-523e-9be5-8dbb081e1986"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "Epic Hotdog (Melton)",
+   "UUID": "65f046df-7fb6-55da-b70b-2a9a0894abcd"
+ },
+ {
+   "Location Name": "MELTON",
+   "Brand": "On The Wing (Melton)",
+   "UUID": "1fd99a47-ca01-5246-8bdf-20cd66a36da9"
+ },
+ {
+   "Location Name": "MITCHELL",
+   "Brand": "World of Wings (Mitchell)",
+   "UUID": "40016313-63b3-53c1-b89a-30b91930526f"
+ },
+ {
+   "Location Name": "MITCHELL",
+   "Brand": "Wing World (Mitchell)",
+   "UUID": "3e1c4c2b-4da9-5288-9cdc-3f4bd292744c"
+ },
+ {
+   "Location Name": "MITCHELL",
+   "Brand": "Absurd Bird (Mitchell)",
+   "UUID": "5420e4e5-0056-5369-af75-a97bbbb81b60"
+ },
+ {
+   "Location Name": "MITCHELL",
+   "Brand": "Epic Chicken (Mitchell)",
+   "UUID": "6589ad2d-8a8c-57bd-8596-1aa54a34f7fe"
+ },
+ {
+   "Location Name": "MITCHELL",
+   "Brand": "On The Wing (Mitchell)",
+   "UUID": "f866fc0f-9e06-5edc-9ea5-c4b6f62c67de"
+ },
+ {
+   "Location Name": "PAGE",
+   "Brand": "Absurd Bird (Page)",
+   "UUID": "0ff0f19c-61ed-4fad-a28c-c947c7408a3c"
+ },
+ {
+   "Location Name": "PAGE",
+   "Brand": "Epic Chicken (Page)",
+   "UUID": "799f5bc0-e333-4f83-8c04-8930aa596e9d"
+ },
+ {
+   "Location Name": "PAGE",
+   "Brand": "World of Wings (Page)",
+   "UUID": "36a4f9ff-f594-4639-a535-c198a7b4574c"
+ },
+ {
+   "Location Name": "PAGE",
+   "Brand": "Wing World (Page)",
+   "UUID": "919ee6f7-ce75-4ffe-a313-16766507c6a5"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "World of Wings (Phillip)",
+   "UUID": "7d7c8162-3e28-5ee4-b139-b669e4750d2b"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "Wing World (Phillip)",
+   "UUID": "b7afd7b1-8871-5c03-a8f9-604ee6804105"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "Absurd Bird (Phillip)",
+   "UUID": "c507f590-ff97-5cd3-a680-3144f74f4ef3"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "Epic Chicken (Phillip)",
+   "UUID": "cd36d3db-e68c-5a6d-a631-8f4083443636"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "Ungki's (Phillip)",
+   "UUID": "b4651bc7-51b8-5071-a310-3d01af96395a"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "Dragon Ear (Phillip)",
+   "UUID": "570baac6-14b1-58c3-afd4-28e97d3ffd67"
+ },
+ {
+   "Location Name": "PHILLIP",
+   "Brand": "On The Wing (Phillip)",
+   "UUID": "f1ce3eb3-4b3d-5a00-ad88-fffdef9f611c"
+ },
+ {
+   "Location Name": "BRIGHTON-LE-SANDS",
+   "Brand": "On The Wing (Brighton-Le-Sands)",
+   "UUID": "9b8a05b5-aa6b-55be-8882-915b116ecacc"
+ },
+ {
+   "Location Name": "CARINGBAH",
+   "Brand": "Big George's Burgers (President Ave, Caringbah)",
+   "UUID": "d6d6ac38-7311-58ef-8c03-5e69580d9136"
+ },
+ {
+   "Location Name": "CARINGBAH",
+   "Brand": "Ben's Burgers (President Ave, Caringbah)",
+   "UUID": "6f0edd24-7294-5c3f-8f3a-4598caf3ca37"
+ },
+ {
+   "Location Name": "CARINGBAH",
+   "Brand": "On The Wing (President Ave, Caringbah)",
+   "UUID": "438fd576-4f6a-59c2-8935-615ac081d581"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "World of Wings (Rouse Hill)",
+   "UUID": "a80526d2-1eda-5171-947f-b204459416f2"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "Wing World (Rouse Hill)",
+   "UUID": "06e304f7-0ee4-5ecb-a61a-fa116ce04001"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "Absurd Bird (Rouse Hill)",
+   "UUID": "c71abae6-8922-5de1-a34a-685626bba883"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "Epic Chicken (Rouse Hill)",
+   "UUID": "3415e397-19a2-5689-b92c-0e133f7af70b"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "Big George's Burgers (Rouse Hill)",
+   "UUID": "762752a3-70a8-5d8f-834a-ea91ec233c55"
+ },
+ {
+   "Location Name": "ROUSE HILL",
+   "Brand": "Ben's Burgers (Rouse Hill)",
+   "UUID": "dd372868-4b82-5df3-a1ee-975346275514"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "Absurd Bird (Sunbury)",
+   "UUID": "650f795e-0d39-41e5-b78f-39103bebd377"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "Epic Chicken (Sunbury)",
+   "UUID": "4ea07589-1636-4936-98fd-acaeba2c5b24"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "World of Wings (Sunbury)",
+   "UUID": "5d97bee7-152e-408e-ab79-de79daa1af98"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "Wing World (Sunbury)",
+   "UUID": "b9a27209-b03a-4d81-b7fc-9da4b0de22a0"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "Dog n Bun (Sunbury)",
+   "UUID": "e78734ee-f3f6-5efa-ad3e-f84a4d09d3a9"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "Epic Hotdog (Sunbury)",
+   "UUID": "a3d5c531-2b3d-5811-8791-a8fd90f6ec9f"
+ },
+ {
+   "Location Name": "SUNBURY",
+   "Brand": "On The Wing (Sunbury)",
+   "UUID": "1b9e2d80-6b2d-5452-887f-9450926f9eb1"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "Absurd Bird (Surry Hills)",
+   "UUID": "331d6452-d327-43c8-997b-6fb57484ecd4"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "Epic Chicken (Surry Hills)",
+   "UUID": "570b0c02-2865-4131-8fbe-f435660446da"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "World of Wings (Surry Hills)",
+   "UUID": "6f9d4c9e-4b96-42c6-8c99-c79b8c7fb193"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "Wing World (Surry Hills)",
+   "UUID": "035628ab-1a3f-4616-9c76-0411d8220757"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "Ben's Burgers (Surry Hills)",
+   "UUID": "0b135459-34ca-5463-80a8-b05123ac743c"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "Big George's Burgers (Surry Hills)",
+   "UUID": "7065cf33-0c28-5b40-9b86-4aabe5064df6"
+ },
+ {
+   "Location Name": "SURRY HILLS",
+   "Brand": "On The Wing (Surry Hills)",
+   "UUID": "eb64e5d6-054e-532b-aebc-d07f5cf95547"
+ },
+ {
+   "Location Name": "WETHERILL PARK",
+   "Brand": "World of Wings (Wetherill Park)",
+   "UUID": "8b18fcef-6b50-57b4-9fe8-3626a3da13b9"
+ },
+ {
+   "Location Name": "WETHERILL PARK",
+   "Brand": "Wing World (Wetherill Park)",
+   "UUID": "78151496-a569-5f77-b624-7c1d86961b5d"
+ },
+ {
+   "Location Name": "WETHERILL PARK",
+   "Brand": "Absurd Bird (Wetherill Park)",
+   "UUID": "8d881ec7-81fa-59e6-993b-e891ad338b56"
+ },
+ {
+   "Location Name": "WETHERILL PARK",
+   "Brand": "Epic Chicken (Wetherill Park)",
+   "UUID": "d1a70d62-6a8c-50c5-9e5b-cf8e3976b093"
+ },
+ {
+   "Location Name": "WETHERILL PARK",
+   "Brand": "On The Wing (Wetherill Park)",
+   "UUID": "afbeb6ae-4080-5755-8d7a-38c296f1401c"
+ },
+ {
+   "Location Name": "WINDSOR",
+   "Brand": "Absurd Bird (Windsor)",
+   "UUID": "6476ac5d-d072-5b7b-b52f-7e663b1b474f"
+ },
+ {
+   "Location Name": "WINDSOR",
+   "Brand": "Epic Chicken (Windsor)",
+   "UUID": "0aba03e8-c3fb-503e-92d6-8693a86e097d"
+ },
+ {
+   "Location Name": "WINDSOR",
+   "Brand": "On The Wing (Windsor)",
+   "UUID": "a2cfa8de-53cb-57a5-bb96-31e83246ff97"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "Wing World (Altona)",
+   "UUID": "c12cb2d1-ee9c-48b0-93cf-4420e6309251"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "World of Wings (Altona)",
+   "UUID": "bf8e9551-5d3f-4cd2-8abf-ca203be672e4"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "Dog n Bun (Altona)",
+   "UUID": "9d0f4f25-ab52-57f0-bcfa-c8b3c6d1987b"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "Epic Hotdog (Altona)",
+   "UUID": "ee232e77-1d6f-5ae2-9b93-a814cc0e5a3d"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "Ungki's (Altona)",
+   "UUID": "adc4da0f-d7d0-5a07-8466-4c2d502a0172"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "Dragon Ear (Altona)",
+   "UUID": "b54778c1-53f8-596e-9727-eb5c11a65630"
+ },
+ {
+   "Location Name": "ALTONA",
+   "Brand": "On The Wing (Altona)",
+   "UUID": "cca68362-340e-50e4-a611-a878b0efda74"
+ },
+ {
+   "Location Name": "CAROLINE SPRINGS",
+   "Brand": "Dog n Bun (Caroline Springs)",
+   "UUID": "7d8315bb-2c59-57af-9063-f4c2b2109676"
+ },
+ {
+   "Location Name": "CAROLINE SPRINGS",
+   "Brand": "Epic Hotdog (Caroline Springs)",
+   "UUID": "21cf56f5-0b73-5ca8-87d3-0ed88c60a5fc"
+ },
+ {
+   "Location Name": "DOREEN",
+   "Brand": "World of Wings (Doreen)",
+   "UUID": "90db753d-58c6-4eaf-a862-0d6138fb52ad"
+ },
+ {
+   "Location Name": "DOREEN",
+   "Brand": "Wing World (Doreen)",
+   "UUID": "97c2674b-625e-4608-93db-8bbbff9030c6"
+ },
+ {
+   "Location Name": "WANTIRNA SOUTH",
+   "Brand": "Absurd Bird (Wantirna South)",
+   "UUID": "27bcf223-f9a2-41d4-8058-611ae243cd56"
+ },
+ {
+   "Location Name": "WANTIRNA SOUTH",
+   "Brand": "Epic Chicken (Wantirna South)",
+   "UUID": "f31dc933-c9e2-4dbd-b183-f83a027f036a"
+ },
+ {
+   "Location Name": "WANTIRNA SOUTH",
+   "Brand": "Wing World (Wantirna South)",
+   "UUID": "a2959473-f6eb-4f99-a418-dc324b46c955"
+ },
+ {
+   "Location Name": "WANTIRNA SOUTH",
+   "Brand": "World of Wings (Wantirna South)",
+   "UUID": "ed45a1c4-d1ce-4104-960f-2b93c6c49936"
+ },
+ {
+   "Location Name": "UNION RD, ASCOT VALE",
+   "Brand": "World of Wings (Union Road, Ascot Vale)",
+   "UUID": "eabf0148-e459-50de-b56c-0f85029233a1"
+ },
+ {
+   "Location Name": "UNION RD, ASCOT VALE",
+   "Brand": "Wing World (Union Road, Ascot Vale)",
+   "UUID": "07a7c9cb-caed-51d2-a5de-c6475f846e7a"
+ },
+ {
+   "Location Name": "UNION RD, ASCOT VALE",
+   "Brand": "Big George's Burgers (Union Road, Ascot Vale)",
+   "UUID": "7a3399e0-966c-538c-8afa-f9ec5459b477"
+ },
+ {
+   "Location Name": "UNION RD, ASCOT VALE",
+   "Brand": "Ben's Burgers (Union Road, Ascot Vale)",
+   "UUID": "10ef6bdf-996e-5e7e-b26f-113cfb54261d"
+ },
+ {
+   "Location Name": "KINGSTON",
+   "Brand": "Legit Burgers (Kingston)",
+   "UUID": "bc152637-f3ee-5643-9459-2591cd712927"
+ },
+ {
+   "Location Name": "KINGSTON",
+   "Brand": "OTT Burgers (Kingston)",
+   "UUID": "64e9b99b-65b0-5bc1-87f2-4c47442e02d7"
+ },
+ {
+   "Location Name": "KINGSTON",
+   "Brand": "Big George's Burgers (Kingston)",
+   "UUID": "b2229b53-a5c9-5f2b-af02-d0eb486e83e2"
+ },
+ {
+   "Location Name": "KINGSTON",
+   "Brand": "Ben's Burgers (Kingston)",
+   "UUID": "6906b2e9-55ef-57a7-ad8f-28dcf1af323b"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "Dog n Bun (South Yarra)",
+   "UUID": "df96f773-64e8-54e2-a6ce-65e520280ca8"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "Epic Hotdog (South Yarra)",
+   "UUID": "f735de02-3f4b-5ffe-8bcc-6032579bac9b"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "Big George's Burgers (South Yarra)",
+   "UUID": "913d4cf1-a4c5-564f-b88e-3d10d4deb8ef"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "Ben's Burgers (South Yarra)",
+   "UUID": "890f38d5-f682-5b5b-893e-95f5327a8bdc"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "World of Wings (South Yarra)",
+   "UUID": "9feef11b-67b3-5c04-8b12-94c866b2fe60"
+ },
+ {
+   "Location Name": "SOUTH YARRA",
+   "Brand": "Wing World (South Yarra)",
+   "UUID": "4cfcdd7d-7bd5-58ae-b800-4bc14cda2654"
+ },
+ {
+   "Location Name": "BALWYN NORTH",
+   "Brand": "Absurd Bird (Balwyn North)",
+   "UUID": "26029dfb-8ff0-482c-9120-f15d86b926dd"
+ },
+ {
+   "Location Name": "BALWYN NORTH",
+   "Brand": "Epic Chicken (Balwyn North)",
+   "UUID": "191f1525-065a-4afa-b713-e5e16aa5675f"
+ },
+ {
+   "Location Name": "BALWYN NORTH",
+   "Brand": "World of Wings (Balwyn North)",
+   "UUID": "833c0021-c82f-435c-8ff1-0023a437663e"
+ },
+ {
+   "Location Name": "BALWYN NORTH",
+   "Brand": "Wing World (Balwyn North)",
+   "UUID": "6c92ffa6-3a0a-4198-b840-39254a170823"
+ },
+ {
+   "Location Name": "BENTLEIGH",
+   "Brand": "Ben's Burgers (Bentleigh)",
+   "UUID": "ebb0b9ab-4713-5a90-988e-4045a265d760"
+ },
+ {
+   "Location Name": "BENTLEIGH",
+   "Brand": "Big George's Burgers (Bentleigh)",
+   "UUID": "42023c89-f383-5b00-8ffa-e4d64371c424"
+ },
+ {
+   "Location Name": "BENTLEIGH",
+   "Brand": "OTT Burgers (Bentleigh)",
+   "UUID": "4d2266c5-b9cd-5a13-b613-eb309b959859"
+ },
+ {
+   "Location Name": "BENTLEIGH",
+   "Brand": "Legit Burgers (Bentleigh)",
+   "UUID": "d37f2b19-01f9-5c6e-8684-7e672528485a"
+ },
+ {
+   "Location Name": "BAYSWATER",
+   "Brand": "Legit Burgers (Bayswater)",
+   "UUID": "2d99d9f8-8444-54cd-bd58-125844a274d7"
+ },
+ {
+   "Location Name": "BAYSWATER",
+   "Brand": "OTT Burgers (Bayswater)",
+   "UUID": "cd74aeb1-ee9f-5e3c-9ea3-35061a66bb79"
+ },
+ {
+   "Location Name": "BAYSWATER",
+   "Brand": "Ben's Burgers (Bayswater)",
+   "UUID": "db05ebd2-c84b-5a8a-994c-aa42b4c638c0"
+ },
+ {
+   "Location Name": "BAYSWATER",
+   "Brand": "World of Wings (Bayswater)",
+   "UUID": "70a747ce-106d-521c-b1e9-ffcc33e16f8c"
+ },
+ {
+   "Location Name": "BAYSWATER",
+   "Brand": "Wing World (Bayswater)",
+   "UUID": "0400196c-f6f3-5dd8-b79d-b402f7584484"
+ },
+ {
+   "Location Name": "CABRAMATTA",
+   "Brand": "Absurd Bird (Cabramatta)",
+   "UUID": "a29c2428-4b1e-5760-85c6-ab6ae93f0fed"
+ },
+ {
+   "Location Name": "CABRAMATTA",
+   "Brand": "Epic Chicken (Cabramatta)",
+   "UUID": "178ee179-f46b-52fc-abaf-90b756e101b5"
+ },
+ {
+   "Location Name": "CABRAMATTA",
+   "Brand": "World of Wings (Cabramatta)",
+   "UUID": "49f65de3-145d-592b-8f55-9dab38273680"
+ },
+ {
+   "Location Name": "CABRAMATTA",
+   "Brand": "Wing World (Cabramatta)",
+   "UUID": "4b6ed42d-1cb1-58a1-9a5a-65bd9706b057"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Absurd Bird (Chadstone)",
+   "UUID": "deda3429-f6c6-5850-b8f3-bdce942e3251"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Epic Chicken (Chadstone)",
+   "UUID": "d729ee3f-d342-52c0-b428-1c474a69ba45"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Big George's Burgers (Chadstone)",
+   "UUID": "597ca2f2-1748-5766-ad58-a29b6c180695"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Ben's Burgers (Chadstone)",
+   "UUID": "70b63374-20a4-51c4-a5b3-51210a99acd0"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Dog n Bun (Chadstone)",
+   "UUID": "df6d232c-53ad-5848-8a1a-be3c45219bb8"
+ },
+ {
+   "Location Name": "CHADSTONE",
+   "Brand": "Epic Hotdog (Chadstone)",
+   "UUID": "e4fccccd-ac3a-5c4b-a212-0082b75a61db"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Absurd Bird (Chatswood)",
+   "UUID": "315a0d90-8aab-47f0-b383-d774aa810d73"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Epic Chicken (Chatswood)",
+   "UUID": "22a65f6a-61c7-410b-a92f-8ce28f32f6e1"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Legit Burgers (Chatswood)",
+   "UUID": "d9fc2c43-9e5b-48ab-af74-0ef52874eaae"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "OTT Burgers (Chatswood)",
+   "UUID": "d0243b12-4afe-42f0-bf2e-879cdff133d7"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Dog n Bun (Chatswood)",
+   "UUID": "ce9f6e2f-b53e-5efd-bb36-10d542b9551b"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Epic Hotdog (Chatswood)",
+   "UUID": "cc091123-bad5-5dd6-9c1c-77eb91cbdd42"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Ben's Burgers (Chatwood)",
+   "UUID": "b59fb766-c056-5a46-ba28-522138360eed"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "Big George's Burgers (Chatswood)",
+   "UUID": "c3567bac-f5b9-5b65-9f85-ee9780db1bbb"
+ },
+ {
+   "Location Name": "CHATSWOOD",
+   "Brand": "On The Wing (Chatswood)",
+   "UUID": "52844056-9a57-50d0-bac4-9d338c92434e"
+ },
+ {
+   "Location Name": "COLLAROY",
+   "Brand": "World of Wings (Collaroy)",
+   "UUID": "1952ba9b-825e-5d76-8f8b-183705d5e6fa"
+ },
+ {
+   "Location Name": "COLLAROY",
+   "Brand": "Wing World (Collaroy)",
+   "UUID": "1cf3107f-8546-5876-9bd3-7e592bd9e62b"
+ },
+ {
+   "Location Name": "COLLAROY",
+   "Brand": "Absurd Bird (Collaroy)",
+   "UUID": "4c9c98bc-5e6e-5c84-9680-7be8143aa091"
+ },
+ {
+   "Location Name": "COLLAROY",
+   "Brand": "Epic Chicken (Collaroy)",
+   "UUID": "4e4f1a16-dd63-51f4-a98a-db70e7b8c0d9"
+ },
+ {
+   "Location Name": "COOGEE",
+   "Brand": "World of Wings (Coogee)",
+   "UUID": "09ce0ca8-638f-5f68-aad1-99eb135dd57f"
+ },
+ {
+   "Location Name": "COOGEE",
+   "Brand": "Wing World (Coogee)",
+   "UUID": "88acf890-501e-5d0d-a0d4-5d4b05f6520f"
+ },
+ {
+   "Location Name": "COOGEE",
+   "Brand": "Absurd Bird (Coogee)",
+   "UUID": "b19f0b91-8e24-5499-80d2-cdd7afa56619"
+ },
+ {
+   "Location Name": "COOGEE",
+   "Brand": "Epic Chicken (Coogee)",
+   "UUID": "a335d949-004f-59fb-9c1c-9293ee528277"
+ },
+ {
+   "Location Name": "DONCASTER",
+   "Brand": "Legit Burgers (Doncaster)",
+   "UUID": "bc91fdad-dab4-467f-992a-c43a0e66702e"
+ },
+ {
+   "Location Name": "DONCASTER",
+   "Brand": "OTT Burgers (Doncaster)",
+   "UUID": "04d9f5b7-c8a5-4f0e-8b04-7b861fbc10e2"
+ },
+ {
+   "Location Name": "DONCASTER",
+   "Brand": "Ben's Burgers (Doncaster)",
+   "UUID": "02852d20-c73a-55aa-a78c-df12556a6e54"
+ },
+ {
+   "Location Name": "DONCASTER",
+   "Brand": "Big George's Burgers (Doncaster)",
+   "UUID": "c8ff0b1d-cd8c-5ab8-84e6-f1b8d1721713"
+ },
+ {
+   "Location Name": "GLADESVILLE",
+   "Brand": "Absurd Bird (Gladesville)",
+   "UUID": "f5c8d844-ea6f-513c-9861-21de8043bdb1"
+ },
+ {
+   "Location Name": "GLADESVILLE",
+   "Brand": "Epic Chicken (Gladesville)",
+   "UUID": "6f564d3f-86db-5da8-a621-5a5291b7aa45"
+ },
+ {
+   "Location Name": "GLADESVILLE",
+   "Brand": "World of Wings (Gladesville)",
+   "UUID": "708d3bd4-41bb-5d04-a980-61b2ee429204"
+ },
+ {
+   "Location Name": "GLADESVILLE",
+   "Brand": "Wing World (Gladesville)",
+   "UUID": "1927e2af-4bdd-5626-a6e3-5f0445e28a86"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Absurd Bird (Glen Waverley)",
+   "UUID": "73c1079e-bf84-45df-bdab-1bb284c0a60b"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Epic Chicken (Glen Waverley)",
+   "UUID": "3af7857e-79bb-4079-8af5-92b5c6eb977a"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Wing World (Glen Waverley)",
+   "UUID": "a10ddc8f-25a8-4867-8104-eb62049401bb"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "World of Wings (Glen Waverley)",
+   "UUID": "4b113bf4-6882-4e4e-a491-54e691a2a91d"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Legit Burgers (Glen Waverley)",
+   "UUID": "16b4a914-7c71-4c32-80d4-fd1906d4f6c0"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "OTT Burgers (Glen Waverley)",
+   "UUID": "05817b56-0813-414d-9cb9-d2e714b27200"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Ben's Burgers (Glen Waverley)",
+   "UUID": "ba3962fa-e1fe-5d6e-be1e-226d6e189d5d"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "Big George's Burgers (Glen Waverley)",
+   "UUID": "653fce89-c7b1-5912-beba-c8bc711fb862"
+ },
+ {
+   "Location Name": "GLEN WAVERLEY",
+   "Brand": "On The Wing (Glen Waverley)",
+   "UUID": "3e2725d6-cbe8-5cd7-9160-85e8a2f5ebac"
+ },
+ {
+   "Location Name": "MAGILL",
+   "Brand": "Big George's Burgers (Magill)",
+   "UUID": "c32d82e0-8715-5056-b2e9-b642453747e1"
+ },
+ {
+   "Location Name": "MAGILL",
+   "Brand": "Ben's Burgers (Magill)",
+   "UUID": "545d2ecc-0258-5462-aff7-e6cb5711b5af"
+ },
+ {
+   "Location Name": "MAGILL",
+   "Brand": "Dog n Bun (Magill)",
+   "UUID": "7857a1a8-e6b3-5300-801d-d610c7f2a1ba"
+ },
+ {
+   "Location Name": "MAGILL",
+   "Brand": "Epic Hotdog (Magill)",
+   "UUID": "72ef0ac4-f701-5e2a-a679-67e6600a7eb6"
+ },
+ {
+   "Location Name": "MITCHAM",
+   "Brand": "Ben's Burgers (Mitcham)",
+   "UUID": "2d1c801b-91c5-5dfd-9507-dd414ca481af"
+ },
+ {
+   "Location Name": "MITCHAM",
+   "Brand": "Big George's Burgers (Mitcham)",
+   "UUID": "44913d75-7ade-56b9-8182-d02e9981e352"
+ },
+ {
+   "Location Name": "MITCHAM",
+   "Brand": "Dog n Bun (Mitcham)",
+   "UUID": "eacec803-4de6-5259-a954-fb7b579addc3"
+ },
+ {
+   "Location Name": "MITCHAM",
+   "Brand": "Epic Hotdog (Mitcham)",
+   "UUID": "7152e8c1-7472-58d0-8121-47dc6ac7b0a3"
+ },
+ {
+   "Location Name": "NARRE WARREN SOUTH",
+   "Brand": "World of Wings (Narre Warren South)",
+   "UUID": "cccc572b-9029-572e-93b4-7aa3a3e00b8e"
+ },
+ {
+   "Location Name": "NARRE WARREN SOUTH",
+   "Brand": "Wing World (Narre Warren South)",
+   "UUID": "50354a11-662b-5cfd-bbc8-a6ab81ae83c4"
+ },
+ {
+   "Location Name": "NARRE WARREN SOUTH",
+   "Brand": "Big George's Burgers (Narre Warren South)",
+   "UUID": "e8390be7-9646-5600-9793-8f3970ef1ea3"
+ },
+ {
+   "Location Name": "NARRE WARREN SOUTH",
+   "Brand": "Ben's Burgers (Narre Warren South)",
+   "UUID": "62d59ce4-36f7-5beb-86ce-b6028b805e98"
+ },
+ {
+   "Location Name": "NARRE WARREN SOUTH",
+   "Brand": "On The Wing (Narre Warren South)",
+   "UUID": "647fd5e4-1ac1-522e-8881-b9e7910e69b8"
+ },
+ {
+   "Location Name": "PRESTONS",
+   "Brand": "World of Wings (Prestons)",
+   "UUID": "fc23cca9-4d18-4b4d-9f1f-2409d1575b4d"
+ },
+ {
+   "Location Name": "PRESTONS",
+   "Brand": "Wing World (Prestons)",
+   "UUID": "b9be847a-f097-4c1e-801f-17499b5f823c"
+ },
+ {
+   "Location Name": "PRESTONS",
+   "Brand": "On The Wing (Prestons)",
+   "UUID": "1be3d799-46f1-5844-bd4c-03e313ed97f8"
+ },
+ {
+   "Location Name": "RIVERSDALE BLD, MERNDA",
+   "Brand": "Absurd Bird (Riversdale Blvd, Mernda)",
+   "UUID": "ae6ad77d-6f08-5a03-80a1-747c472d46a9"
+ },
+ {
+   "Location Name": "RIVERSDALE BLD, MERNDA",
+   "Brand": "Epic Chicken (Riversdale Blvd, Mernda)",
+   "UUID": "e48f0a70-eea5-513d-a610-260679c358c8"
+ },
+ {
+   "Location Name": "RIVERSDALE BLD, MERNDA",
+   "Brand": "Big George's Burgers (Riversdale Blvd, Mernda)",
+   "UUID": "ebe85799-1ee7-5778-8017-a58943e83dd2"
+ },
+ {
+   "Location Name": "RIVERSDALE BLD, MERNDA",
+   "Brand": "Ben's Burgers (Riversdale Blvd, Mernda)",
+   "UUID": "b5f1db05-962a-502d-a979-c1541ed89f79"
+ },
+ {
+   "Location Name": "ROSEBUD",
+   "Brand": "World of Wings (Rosebud)",
+   "UUID": "9ce32f45-4547-538c-ad90-f060b54bce8f"
+ },
+ {
+   "Location Name": "ROSEBUD",
+   "Brand": "Wing World (Rosebud)",
+   "UUID": "a8ed274d-6ca1-5039-bfcc-9818fb7bcc63"
+ },
+ {
+   "Location Name": "ROSEBUD",
+   "Brand": "Absurd Bird (Rosebud)",
+   "UUID": "f6a69a39-e6ff-518f-a6c0-ce1008e04af4"
+ },
+ {
+   "Location Name": "ROSEBUD",
+   "Brand": "Epic Chicken (Rosebud)",
+   "UUID": "9a811c34-e0b7-5eb6-882a-c7ee0a328d91"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "World of Wings (Waterloo)",
+   "UUID": "2ab12189-5525-52dd-a983-b42384383325"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Wing World (Waterloo)",
+   "UUID": "ff19899a-b32e-5481-9611-2a8d168124f0"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Absurd Bird (Waterloo)",
+   "UUID": "8f2c42d2-0ac9-5c4f-abfd-d49be11e2733"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Epic Chicken (Waterloo)",
+   "UUID": "299425a5-520e-53bc-8a95-86d9157ae1fd"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Legit Burgers (Waterloo)",
+   "UUID": "941c7117-6745-5c9c-a626-931bf83b205e"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "OTT Burgers (Waterloo)",
+   "UUID": "89ad0d38-ec43-550d-b3b7-fdeefc21688d"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Big George's Burgers (Waterloo)",
+   "UUID": "2bb2cb4c-1232-547f-91a9-266287ef7dca"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Ben's Burgers (Waterloo)",
+   "UUID": "48baf95a-db97-5c50-9b24-14c97d358a60"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "On The Wing (Waterloo)",
+   "UUID": "fcb63813-b431-5578-9932-5ede851bebe3"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Dog N Bun (Waterloo)",
+   "UUID": "b83baf5a-1a93-5398-953f-bd8084e1dd69"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Epic Hotdog (Waterloo)",
+   "UUID": "3aa346e0-da35-56cd-93fc-ffb10fdece8e"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Ungki's (Waterloo)",
+   "UUID": "80b84084-6ae3-5c73-a4e4-20987903af94"
+ },
+ {
+   "Location Name": "WATERLOO",
+   "Brand": "Dragon Ear (Waterloo)",
+   "UUID": "a8eb958f-bcd2-5722-8be9-cf5236335366"
+ },
+ {
+   "Location Name": "WATSON",
+   "Brand": "Ben's Burgers (Watson)",
+   "UUID": "67f7defa-b116-516d-a252-71141a8a27f4"
+ },
+ {
+   "Location Name": "WATSON",
+   "Brand": "Big George's Burgers (Watson)",
+   "UUID": "66705af1-55fc-5c6c-b13c-99068e4fe13f"
+ },
+ {
+   "Location Name": "WATSON",
+   "Brand": "On The Wing (Watson)",
+   "UUID": "f69a2bec-0616-55d0-ab09-723629ad5692"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Absurd Bird (West Pymble)",
+   "UUID": "439ef855-73fa-4dcb-b5f7-86d5c5738fab"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Epic Chicken (West Pymble)",
+   "UUID": "834f9968-b62f-4fb7-8632-41c425abb31a"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "World of Wings (West Pymble)",
+   "UUID": "54d67d33-d775-41c1-9a63-fafac3788b42"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Wing Wolrld (West Pymble)",
+   "UUID": "cb5fd2c8-c81e-439e-b366-81da460b28cd"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Legit Burgers (West Pymble)",
+   "UUID": "14f78d18-66aa-41c0-a6b0-2f999d6d386a"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "OTT Burgers (West Pymble)",
+   "UUID": "8174be4e-1056-4897-9ff3-3802e29a1e6b"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Ben's Burgers (West Pymble)",
+   "UUID": "158e8f55-db73-55f6-b7aa-f82b55c155d7"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "Big George's Burgers (West Pymble)",
+   "UUID": "4737b6a7-62d6-5eaf-94c4-a9ff1950d6d0"
+ },
+ {
+   "Location Name": "WEST PYMBLE",
+   "Brand": "On The Wing (West Pymble)",
+   "UUID": "03beda5c-7110-58a5-ba4a-4475304598f3"
+ }
+]
